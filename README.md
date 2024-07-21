@@ -22,7 +22,7 @@ Introducing a dynamic and modern portfolio template, powered by React.js for per
 
 ## Demo
 
-Visit the live demo: 
+Visit the live demo: https://niranjansd-dev.vercel.app/
 
 ## Installation
 
