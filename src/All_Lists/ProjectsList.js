@@ -12,6 +12,7 @@ import img11 from '../assets/shopme.png'
 import img12 from '../assets/niranjan.png'
 import img13 from '../assets/weatherwidget.png'
 import img14 from '../assets/wanderlust.png'
+import img15 from '../assets/bagshop.png'
 
 const ProjectsList = [
     {
@@ -113,7 +114,13 @@ const ProjectsList = [
         github: 'https://github.com/niranjan-digraje/WanderLust',
         image: img14
     },
-    
+    {
+        id: 15,
+        title: 'Bag-Shop',
+        //link: '',
+        github: 'https://github.com/niranjan-digraje/Bag-Shop',
+        image: img15
+    },
     
     
 ]
