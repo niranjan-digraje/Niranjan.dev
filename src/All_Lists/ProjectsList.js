@@ -12,7 +12,7 @@ import img11 from '../assets/shopme.png'
 import img12 from '../assets/niranjan.png'
 import img13 from '../assets/weatherwidget.png'
 import img14 from '../assets/wanderlust.png'
-import img15 from '../assets/bagshop.png'
+import img15 from '../assets/bagshop.PNG'
 
 const ProjectsList = [
     {
